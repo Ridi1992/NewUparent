@@ -1,0 +1,71 @@
+{
+    "data": null,
+    "datas": [
+        {
+            "birthday": "2013-01-03 00:00:00",
+            "schoolName": "西安高新第一幼儿园",
+            "remark": null,
+            "nation_display": "汉族",
+            "create_by": null,
+            "id_card": "610123199411212215",
+            "school_id": "37b2fced148d4686b00ee9a1bacfee85",
+            "id": "8fdfc6b9269d473b9a9853423eb640eb",
+            "ImFriend": [
+                {
+                    "username": "ef03272edac444caa0b3c6927cc13a4c",
+                    "isDefalutPhoto": true,
+                    "nickName": "刘禹锡爸爸",
+                    "password": "e10adc3949ba59abbe56e057f20f883e",
+                    "photo": "http://hangutech.gicp.net:8804/knight/img/parent.png"
+                },
+                {
+                    "username": "1207036bbdeb40369896097d630fdc42",
+                    "isDefalutPhoto": true,
+                    "nickName": "刘禹锡家长",
+                    "password": "e10adc3949ba59abbe56e057f20f883e",
+                    "photo": "http://hangutech.gicp.net:8804/knight/img/parent.png"
+                },
+                {
+                    "username": "c35a62378fea49cbbeafe7ff68deb6a9",
+                    "isDefalutPhoto": true,
+                    "nickName": "刘德华老师",
+                    "password": "e10adc3949ba59abbe56e057f20f883e",
+                    "photo": "http://hangutech.gicp.net:8804/knight/img/teacher.png"
+                }
+            ],
+            "busLineName": null,
+            "name": "刘禹锡",
+            "position_status": "3",
+            "gender": "M",
+            "urgent_link_phone": "13855269954",
+            "bus_line_id": null,
+            "groups": {
+                "groupId": null,
+                "groupDesc": null
+            },
+            "position_status_display": "已离校",
+            "clazz_id": "8cd17248924840fc8cbd558871bde7bc",
+            "ImUser": {
+                "nickName": "刘禹锡妈妈",
+                "userName": "4374be207e1c4134a9add0d8091680ae",
+                "password": "e10adc3949ba59abbe56e057f20f883e"
+            },
+            "isDefalutPhoto": true,
+            "urgent_link_man": "刘胡兰",
+            "clazzName": "高新一幼IM高级班",
+            "entry_time": "2016-01-26 00:00:00",
+            "photo": "http://hangutech.gicp.net:8804/knight/img/student.png",
+            "nation": "01",
+            "birthplace": null,
+            "address": "西安汉中",
+            "gender_display": "男",
+            "registered_place": null
+        }
+    ],
+    "message": "",
+    "success": true,
+    "totalCount": 0
+}
+
+
+账号：13854552658 密码：123456

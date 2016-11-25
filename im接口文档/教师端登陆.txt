@@ -1,0 +1,47 @@
+教师端login {
+    "data": {
+        "native_place": null,
+        "schoolName": "西安高新第一幼儿园",
+        "ImUser": {
+            "nickName": "刘德华老师",
+            "userName": null,
+            "password": "e10adc3949ba59abbe56e057f20f883e"
+        },
+        "remark": null,
+        "create_by": null,
+        "job": null,
+        "id_card": "6101************25",
+        "education": null,
+        "photo": "http://hangutech.gicp.net:8804/knight/img/teacher.png",
+        "password": "e10adc3949ba59abbe56e057f20f883e",
+        "nation": null,
+        "school_id": "37b2fced148d4686b00ee9a1bacfee85",
+        "version": 0,
+        "update_by": null,
+        "id": "c35a62378fea49cbbeafe7ff68deb6a9",
+        "mobile_phone": "13456321478",
+        "create_date": "2016-01-26 15:02:53",
+        "token": "YWMtYTCSDsP6EeWKzz1TD6hr1QAAAVOxuLDAXQNsNaUU_R9niulq90N3HAC3-LM",
+        "email": null,
+        "name": "刘德华",
+        "gender": "M",
+        "update_date": "2016-01-26 15:02:53",
+        "telephone": null,
+        "groups": [
+            {
+                "groupId": "8cd17248924840fc8cbd558871bde7bc",
+                "groupDesc": "高新一幼IM高级班"
+            }
+        ]
+    },
+    "datas": null,
+    "message": "teacherService.login",
+    "success": true,
+    "totalCount": 0
+}
+
+账号：
+13456321478
+
+密码：
+123456

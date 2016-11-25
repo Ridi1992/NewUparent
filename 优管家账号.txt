@@ -1,0 +1,89 @@
+第三方平台账号
+极光推送
+https://www.jpush.cn
+账号：3327523269@qq.com
+密码：1qaz2wsx
+
+AppKey 0e9035a65bd9052e5104caab
+Master Secret 5ccc38728c9e98d588988c43
+
+
+分享及短信验证码
+http://mob.com/ 
+
+账号：3327523269@qq.com
+密码：1qaz2wsx
+
+分享ShareSDK 
+优管家(Android)
+App Key 9cbee5514282
+App Secret 6fa30a057572f0d088cf4b0d51fb43c3
+
+优管家(iOS)
+App Key 9cbf3b64094e
+App Secret b57b3a5ec9619f7d43f90d6ccdfb0da8
+
+短信验证码SecurityCodeSDK
+优管家(Android)
+App Key 9cc03e02a296
+App Secret 6f304eff08982e0a078bcba21068518d
+
+优管家(iOS)
+App Key 9cc0948a4a22
+App Secret 93f599dfcca6d262a985765e3cad029b
+
+
+
+百度统计账号
+
+admin@hangutech.com
+hangutech7890
+
+函谷--技术 2015/12/18 18:02:35
+http://mtj.baidu.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+===================================================
+腾讯开放平台：
+http://connect.qq.com 
+
+账号：3327523269
+密码：1qaz2wsx
+QQ分享用
+APP ID:1104828184
+APP KEY:uRT3FEna7ypi74XQ
+
+微信开放平台
+https://open.weixin.qq.com 
+
+
+账号：ygj3327523269@sina.com
+密码：1qaz2wsx
+微信分享用
+需要继续完成APP注册
+===================================================
+
+
+极光推送
+https://www.jpush.cn
+账号：3327523269@qq.com
+密码：1qaz2wsx
+
+优管家(家长端)
+AppKey 0e9035a65bd9052e5104caab
+Master Secret 5ccc38728c9e98d588988c43
+
+优管家(教师端)
+AppKey 2f469e4f22d9c28fbcbacf07
+Master Secret 8de8570451d34a81614d7da6
